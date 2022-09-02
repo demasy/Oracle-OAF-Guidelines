@@ -47,9 +47,9 @@
  | SEQ       | File Type           | File Extension | Length | Prefix | Suffix | Syntax | Example |
  | :-        | :----               | :---           | :-:    | :---   | :---   | :----   | :---- | 
  | 1         | **Entity**          |-               | -      |  -     |  -     | -        | -|
- | 1.1       | Entity Object       | .xml, .java    | -      |        | EO     | {entityName}{suffix} | |
- | 1.2       | Association Object  | .xml           | -      |        | AO     | {parent}To{child}{suffix}| |
- | 1.3       | Entity Expert       | .java          | -      |        | Expert | {name}{suffix} | |
+ | 1.1       | Entity Object       | .xml, .java    | -      |        | EO     | {entityName}{suffix} | EmployeeEO|
+ | 1.2       | Association Object  | .xml           | -      |        | AO     | {parent}To{child}{suffix}| EmployeeToAssignment|
+ | 1.3       | Entity Expert       | .java          | -      |        | Expert | {name}{suffix} | EmployeeExpert |
  
  
  
