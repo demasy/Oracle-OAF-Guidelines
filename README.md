@@ -107,7 +107,7 @@
 
 
 ### Contributing to the OA Framework (OAF) guidelines
-We welcome new Oracle developers to join our community and contribute to the OA Framework (OAF) guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: founder@egyptianprogrammers.com
+We welcome new Oracle OAF developers to join our community and contribute to the OA Framework (OAF) guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: founder@egyptianprogrammers.com
 
 <br>
   
