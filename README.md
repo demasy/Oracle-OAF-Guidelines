@@ -24,3 +24,9 @@
 ### Scenario: Custom Solution
 
 <img align="center" src="https://github.com/demasy/Oracle-OA-Framework-OAF-Guidelines/blob/main/resources/images/diagrams/demasy_oaf_hrss_structure.png">
+
+<br>
+
+### Scenario: Extended View Objects
+
+<img align="center" src="https://github.com/demasy/Oracle-OA-Framework-OAF-Guidelines/blob/main/resources/images/diagrams/demasy_oaf_extended_view_objects_structure.png">
