@@ -17,4 +17,10 @@
 
 ### Scenario: General
 
-<img align="center" src="https://github.com/demasy/Oracle-OA-Framework-OAF-Guidelines/blob/main/resources/images/diagrams/demasy_OAF_structure-master_diagram.png">
+<img align="center" src="https://github.com/demasy/Oracle-OA-Framework-OAF-Guidelines/blob/main/resources/images/diagrams/demasy_oaf_general_structure.png">
+
+<br>
+
+### Scenario: Custom Solution
+
+<img align="center" src="https://github.com/demasy/Oracle-OA-Framework-OAF-Guidelines/blob/main/resources/images/diagrams/demasy_oaf_hrss_structure.png">
