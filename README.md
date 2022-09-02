@@ -32,3 +32,24 @@
 #### Scenario: Extended View Objects
 
 <img align="center" src="https://github.com/demasy/Oracle-OA-Framework-OAF-Guidelines/blob/main/resources/images/diagrams/demasy_oaf_extended_view_objects_structure.png">
+
+
+<br>
+
+## OA Framework Model Standards Guidelines
+
+<br>
+
+### OA Model Naming Conventions
+
+<br>
+
+ | SEQ       | File Type           | File Extension | Length | Prefix | Suffix | Syntax | Example |
+ | :-        | :----               | :---           | :-:    | :---   | :---   | :----   | :---- | 
+ | 1         | **Entity**          |-               | -      |  -     |  -     | -        | -|
+ | 1.1       | Entity Object       | .xml, .java    | -      |        | EO     | {entityName}{suffix} | |
+ | 1.2       | Association Object  | .xml           | -      |        | AO     | {parent}To{child}{suffix}| |
+ | 1.3       | Entity Expert       | .java          | -      |        | Expert | {name}{suffix} | |
+ 
+ 
+ 
