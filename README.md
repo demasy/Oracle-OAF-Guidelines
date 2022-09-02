@@ -49,16 +49,16 @@
  | SEQ       | File Type                    | File Extension | Length | Prefix | Suffix | Syntax                    | Example |
  | :-        | :----                        | :---           | :-:    | :---   | :---   | :----                     | :---- | 
  | 1         | **Entity**                   |  -             | -      |  -     |  -     | -                         | -|
- | 1.1       | Entity Object                | .xml, .java    | -      |  -     | EO     | {entityName}{suffix}      | EmployeeEO|
- | 1.2       | Association Object           | .xml           | -      |  -     | AO     | {parent}To{child}{suffix} | EmployeeToAssignment|
- | 1.3       | Entity Expert                | .java          | -      |  -     | Expert | {name}{suffix}            | EmployeeExpert |
+ | 1.1       | Entity Object                | .xml, .java    | 30     |  -     | EO     | {entityName}{suffix}      | EmployeeEO|
+ | 1.2       | Association Object           | .xml           | 30     |  -     | AO     | {parent}To{child}{suffix} | EmployeeToAssignment|
+ | 1.3       | Entity Expert                | .java          | 30     |  -     | Expert | {name}{suffix}            | EmployeeExpert |
  | 2         | **View Object**              | -              | -      |  -     |        | -                         | - |
- | 2.1       | View Object/View Row         | .xml, .java    | -      |  -     | VO     | {DescriptiveName}{suffix} | - |
- | 2.2       | Validation View Object       | .xml, .java    | -      |  -     | VVO    | {DescriptiveName}{suffix} | - | 
- | 2.3       | View Link                    | .xml           | -      |  -     | VL     | {Master}To{Detail}{suffix}| - |
+ | 2.1       | View Object/View Row         | .xml, .java    | 30     |  -     | VO     | {DescriptiveName}{suffix} | - |
+ | 2.2       | Validation View Object       | .xml, .java    | 30     |  -     | VVO    | {DescriptiveName}{suffix} | - | 
+ | 2.3       | View Link                    | .xml           | 30     |  -     | VL     | {Master}To{Detail}{suffix}| - |
  | 3         | **Application Module**       | -              | -      |  -     | -      | -      | - |
- | 3.1      | Application Module            | .xml, .java    | -      |  -     | VL     | {ModuleName}{suffix}      | - |
- | 3.2      | Validation Application Module | .xml, .java    | -      |  -     | VAM    | {TopLevelEntityName}{suffix}     | - |
+ | 3.1      | Application Module            | .xml, .java    | 30     |  -     | VL     | {ModuleName}{suffix}      | - |
+ | 3.2      | Validation Application Module | .xml, .java    | 30     |  -     | VAM    | {TopLevelEntityName}{suffix}     | - |
  
 
 <br>
