@@ -2,7 +2,7 @@
 
 <br>
 
-- OA Framework General Guidelines
+- OA Framework File Contents Standards Guidelines
 - OA Framework Model Standards Guidelines
 - OA Framework View Standards Guidelines
 - OA Framework Controller Standards Guidelines
@@ -11,9 +11,11 @@
 
 <br>
 
-## OA Framework General Guidelines
+## OA Framework File Contents Standards Guidelines
 
-### Package Directory Structure
+<br>
+
+### OA Framework Package Naming Standards
 
 <br>
 
