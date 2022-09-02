@@ -85,3 +85,13 @@
 ## OA Framework Controller Standards Guidelines 
 
 <br>
+
+
+
+### Contributing to the Oracle OA Framework (OAF) guidelines
+We welcome new Oracle developers to join our community and contribute to the Oracle OA Framework (OAF) guidelines project. If you are interested in helping please don’t hesitate to contact on an e-mail: founder@egyptianprogrammers.com
+
+<br>
+  
+
+
