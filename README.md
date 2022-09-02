@@ -52,6 +52,7 @@
  | 1.1       | Entity Object                | .xml, .java    | 30     |  -     | EO     | {entityName}{suffix}      | EmployeeEO|
  | 1.2       | Association Object           | .xml           | 30     |  -     | AO     | {parent}To{child}{suffix} | EmployeeToAssignment|
  | 1.3       | Entity Expert                | .java          | 30     |  -     | Expert | {name}{suffix}            | EmployeeExpert |
+ | 1.4       | Entity Objects for Translatable (_TL) Tables | .java          | 30     |  -     | TLEO   | {name}{suffix}            | LookupCodeTLEO | 
  | 2         | **View Object**              | -              | -      |  -     |        | -                         | - |
  | 2.1       | View Object/View Row         | .xml, .java    | 30     |  -     | VO     | {DescriptiveName}{suffix} | - |
  | 2.2       | Validation View Object       | .xml, .java    | 30     |  -     | VVO    | {DescriptiveName}{suffix} | - | 
