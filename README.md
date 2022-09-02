@@ -86,6 +86,10 @@
 
 <br>
 
+ | SEQ    | File Type                    | File Extension | Length | Prefix | Suffix | Syntax                    | Example |
+ | :-     | :----                        | :---           | :-:    | :---   | :---   | :----                     | :---- | 
+ | 1      | UI Controller                | .xml, .java           | -      |  -     | CO  | - {object}{function}{suffix} <br> - {object}{suffix}  | |
+
 
 
 <br>
