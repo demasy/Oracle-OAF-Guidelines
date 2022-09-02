@@ -78,3 +78,10 @@
  | 3      | UI Controller                | .xml, .java           | -      |  -     | CO  | - {object}{function}{suffix} <br> - {object}{suffix}  | |
  | 4      | Attribute Set Package                | .xml           | -      |  -     | -  | {tableName}   | | 
  | 5      | UI Components Package                | .xml           | -      |  -     | -  | {moduleName}   | | 
+
+
+<br>
+
+## OA Framework Controller Standards Guidelines 
+
+<br>
